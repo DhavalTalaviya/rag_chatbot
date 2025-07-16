@@ -14,7 +14,7 @@ A Retrieval-Augmented Generation (RAG) chatbot built with:
 ✅ Streamlit web interface
 
 ## 🛠 Setup
-
+```bash
 1️⃣ Clone the repo:
 
 git clone https://github.com/yourusername/rag_chatbot.git
