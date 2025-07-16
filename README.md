@@ -16,7 +16,7 @@ A Retrieval-Augmented Generation (RAG) chatbot built with:
 ## 🛠 Setup
 
 1️⃣ Clone the repo:
-```bash
+
 git clone https://github.com/yourusername/rag_chatbot.git
 cd rag_chatbot
 
