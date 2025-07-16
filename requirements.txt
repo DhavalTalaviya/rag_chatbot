@@ -1,5 +1,4 @@
 langchain
-openai
 faiss-cpu
 streamlit
 tqdm
