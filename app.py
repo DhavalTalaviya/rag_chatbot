@@ -27,6 +27,3 @@ if question:
             st.write("🤖 **Answer:**", response)
         except Exception as e:
             st.error(f"Error: {e}")
-
-# keep chat history (you can extend this)
-st.session_state.chat_history.append({"question": question, "answer": response})
